@@ -1,6 +1,6 @@
 // Cloudflare Worker File - v2.0
 
-const WORKER_URL = "myworker.workers.dev";
+const WORKER_URL = "my-worker.ehsanhamedi04.workers.dev";
 
 const DEFAULT_UPSTREAM_TIMEOUT_MS = 25000;
 
